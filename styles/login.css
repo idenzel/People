@@ -1,0 +1,11 @@
+/*Photo by Alex Kotliarskyi on Unsplash*/
+
+body{
+    background: url(https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1050&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D);
+	background-repeat: no-repeat;
+	background-size: cover;  
+}
+
+.vertical-offset-100{
+    padding-top:100px;
+}

@@ -1,0 +1,64 @@
+html, body {
+  position: relative;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+ background: -webkit-linear-gradient(top, rgba(254,255,255,1) 0%,rgba(221,241,249,1) 35%,rgba(160,216,239,1) 100%)fixed;
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+
+.user-row {
+    margin-bottom: 14px;
+}
+
+.user-row:last-child {
+    margin-bottom: 0;
+}
+
+.dropdown-user {
+    margin: 13px 0;
+    padding: 5px;
+    height: 100%;
+}
+
+.dropdown-user:hover {
+    cursor: pointer;
+}
+
+.table-user-information > tbody > tr {
+    border-top: 1px solid rgb(221, 221, 221);
+}
+
+.table-user-information > tbody > tr:first-child {
+    border-top: 0;
+}
+
+
+.table-user-information > tbody > tr > td {
+    border-top: 0;
+}
+.toppad{
+	margin-top:20px;
+
+}
+.td{
+font-weight:  bold;
+
+
+}
+.prof-field{
+	border: none;
+	background-color: #FFFFFF; 
+}
+
+.table-details{
+border-style: 1px solid;
+border-radius: 3px;
+background-color: white;
+
+}

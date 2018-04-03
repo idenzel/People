@@ -1,0 +1,10 @@
+body{
+	background: -webkit-linear-gradient(top, rgba(254,255,255,1) 0%,rgba(221,241,249,1) 35%,rgba(160,216,239,1) 100%)fixed;
+background-size: cover;
+background-repeat: no-repeat;
+font-size: 12px;
+}
+td:hover{
+background-color: white;
+
+}
